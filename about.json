@@ -1,7 +1,7 @@
 {
    "name" : "Solarized",
-   "about_url" : "",
-   "license_url": "",
+   "about_url" : "https://github.com/SamSaffron/discourse-solarized",
+   "license_url": "https://github.com/SamSaffron/discourse-solarized/blob/master/LICENSE",
    "color_schemes": {
       "Solarized Light": {
         "primary": "586E75",
